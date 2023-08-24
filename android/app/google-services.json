@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187160474059",
+    "project_id": "mass-nova",
+    "storage_bucket": "mass-nova.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187160474059:android:61a45ab1ac00ab1eae064e",
+        "android_client_info": {
+          "package_name": "com.example.mass_nova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187160474059-fumn8r5fsscla8nlct2oicqhttlv6bao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Z9HUpTwXGw5YBa46o0gm1OUibVWs8_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187160474059-fumn8r5fsscla8nlct2oicqhttlv6bao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
